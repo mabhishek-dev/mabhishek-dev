@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm [M Abhishek](https://www.linkedin.com/in/mabhishek-dev)
 
-<!--
-**mabhishek-dev/mabhishek-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building web applications using React, TypeScript, Node.js, Express, and MongoDB. I design REST APIs, implement authentication and authorization, and build responsive web interfaces. I have also worked on systems-level programming through projects such as implementing an LC-3 virtual machine in C.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**  
+HTML • CSS • JavaScript • React • TypeScript • Vite • Chakra UI
+
+**Backend**  
+Node.js • Express • MongoDB • Mongoose • REST APIs • JWT Authentication
+
+**Systems**  
+C • Computer Architecture • Virtual Machines
+
+**Tools**  
+Git • GitHub • Postman
+
+## Featured Projects
+
+### [Vidly API](https://github.com/mabhishek-dev/vidly)
+Node.js REST API implementing authentication, role-based authorization, request validation using Joi, and centralized logging with Winston.
+
+### [Game Hub](https://github.com/mabhishek-dev/game-hub)
+React + TypeScript web application integrating the RAWG API with search, filtering, and a responsive UI.
+
+### [LC-3 Virtual Machine](https://github.com/mabhishek-dev/lc3-virtual-machine)
+Implementation of the LC-3 architecture in C capable of executing LC-3 assembly programs.
+
+More details, documentation, and additional projects are available in my repositories.
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/mabhishek-dev)
