@@ -1,9 +1,9 @@
-# Hi, I'm [M Abhishek](https://www.linkedin.com/in/mabhishek-dev)
+# Hi, I'm [M Abhishek](https://devmeet-portfolio.vercel.app/)
 
 You can find my projects and implementations in the repositories on this profile. Feel free to check them out, use them, or build on top of them.
 
-If you have something you want to build or collaborate on, you can reach out to me.
+I also have a personal portfolio where I’ve showcased my work and included ways to connect with me.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/mabhishek-dev)
+[Portfolio](https://devmeet-portfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/mabhishek-dev)
